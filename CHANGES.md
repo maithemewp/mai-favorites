@@ -1,5 +1,8 @@
 # Changelog
 
+## 2.4.4 (5/26/26)
+* Changed: Updated the updater for PHP 8.4 support.
+
 ## 2.4.3 (12/5/24)
 * Changed: Updated the updater.
 
